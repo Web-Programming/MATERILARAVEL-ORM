@@ -1,4 +1,4 @@
-## Template Base Project Laravel
+## Template Project Laravel untuk Materi Migration - Eloquent - Eloquent ORM
 
 - Join ke Classrom melalui invitation link yang telah diberikan
 - Jalankan perintah : composer install
