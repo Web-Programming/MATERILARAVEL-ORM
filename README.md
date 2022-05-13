@@ -7,5 +7,5 @@
 - Untuk menghidupkan server jalankan perintah : php artisan serve
 
 ## Materi Laravel
-### Migration : https://simponi2.mdp.ac.id/materi/I2213/141100/I2213-141100-597-18.pdf
-### DB Facade (Raw SQL Queries), Query Builder, Eloquent : https://simponi2.mdp.ac.id/materi/I2213/141100/I2213-141100-558-19.pdf
+#### Migration : https://simponi2.mdp.ac.id/materi/I2213/141100/I2213-141100-597-18.pdf
+#### DB Facade (Raw SQL Queries), Query Builder, Eloquent : https://simponi2.mdp.ac.id/materi/I2213/141100/I2213-141100-558-19.pdf
